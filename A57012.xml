@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antipas, or, The dying testimony of Mr. James Renwick, Minister of the Gospel, who suffered at the grass-market of Edinburgh, Feb. 17, 1688 : his sentence was founded on these following heads : 1. Because he could not own James the VII, to be his lawful soverain, 2. Because he taught the unlawfulness of paying the cess expresly [sic] exacted for supressing of the faithful and free-preaching of the Gospel, 3. Because he taught, that it was the people's duty, to carry arms at the preaching of the Gospel (when it was persecuted) for defending of themselves, and resisting of unjust violence.</title>
+            <author>Renwick, James, 1662-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57012</idno>
+            <idno type="STC">Wing R1043</idno>
+            <idno type="STC">ESTC R22164</idno>
+            <idno type="EEBO-CITATION">12059744</idno>
+            <idno type="OCLC">ocm 12059744</idno>
+            <idno type="VID">53202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 576:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antipas, or, The dying testimony of Mr. James Renwick, Minister of the Gospel, who suffered at the grass-market of Edinburgh, Feb. 17, 1688 : his sentence was founded on these following heads : 1. Because he could not own James the VII, to be his lawful soverain, 2. Because he taught the unlawfulness of paying the cess expresly [sic] exacted for supressing of the faithful and free-preaching of the Gospel, 3. Because he taught, that it was the people's duty, to carry arms at the preaching of the Gospel (when it was persecuted) for defending of themselves, and resisting of unjust violence.</title>
+                  <author>Renwick, James, 1662-1688.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Renwick, James, 1662-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53202:1"/>
+            <pb facs="tcp:53202:1" rendition="simple:additions"/>
+            <p>ANTIPAS OR, The Dying Teſtimony of Mr. James Renwick Miniſter of the Goſpel, who Suffered at the <hi>Graſs-Market</hi> of <hi>Edinburgh, Feb.</hi> 17. 1688.</p>
+            <p>His Sentence was founded on theſe following Heads
+<list>
+                  <item>1 <hi>Becauſe he could not own</hi> James <hi>the</hi> VII, <hi>to be his Lawful So<g ref="char:EOLhyphen"/>verain.</hi>
+                  </item>
+                  <item>2 <hi>Becauſe he taught the <g ref="char:V">Ʋ</g>nlawfulneſs of</hi> Paying the Ceſs, <hi>ex<g ref="char:EOLhyphen"/>preſly exacted for Suppreſſing of the Faithful and free Preach<g ref="char:EOLhyphen"/>ing of the Goſpel.</hi>
+                  </item>
+                  <item>3 <hi>Becauſe he taught, that it was the People's Duty,</hi> to carry Arms <hi>at the Preaching of the Goſpel (when it was Perſecuted) for De<g ref="char:EOLhyphen"/>fending of themſelves, and reſiſting of unjuſt Violence.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <bibl>Gen: <hi>4.10</hi>
+               </bibl> 
+               <hi>And he ſaid, What haſt thou done? the voice of thy Brothers Blood cryeth unto me from the Ground.</hi>
+               <bibl>pſal. <hi>78, 64.</hi>
+               </bibl> 
+               <hi>Their prieſts fell by the ſword.</hi>
+               <bibl>pſ: <hi>79 2.</hi>
+               </bibl> 
+               <hi>The Dead Bodies of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſervants, &amp;c. 3 Their Blood have they ſhed like water round about Jeruſalem.</hi>
+               <bibl>Lam: <hi>2 20</hi>
+               </bibl> 
+               <hi>Shall, the prieſt and the prophet be ſlain in the ſanctuary of the Lord.</hi>
+               <bibl>Rev. <hi>2 10</hi>
+               </bibl> 
+               <hi>Be thou Faithful unto Death, and I will give thee a crown of Life.</hi>
+               <bibl>Rev. <hi>6 9</hi>
+               </bibl> 
+               <hi>I ſaw under the Altar the ſouls of them that were ſlain, for the word of God, and for the Teſtimony which they held. 10 and 11 verſes,</hi> &amp;c,
+<bibl>Rev: <hi>7.13</hi>
+               </bibl> 
+               <hi>What are theſe</hi> &amp;c, <hi>and whence came they? 14 v. And he ſaid to me, Theſe are they which came out of great tribulation, &amp;c.</hi>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53202:2" rendition="simple:additions"/>
+            <head>The Dying Teſtimony of Mr. <hi>James Renwick</hi> Miniſter of the Goſpel, to the Truths and Duties for which he was Judged, and others Contraverted in our time, who Suffered at the <hi>Graſs-Market</hi> in <hi>Edinburgh, Fe<g ref="char:EOLhyphen"/>bruary 17th. 1688.</hi> Emitted from his own Hand the day before his Suffering, &amp;c.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Dear Friends in CHRIST,</salute>
+                  </opener>
+                  <p>IT hath pleaſed the Lord to deliver me up into the Hands of Men, and I think fit to ſend you this Salutation, which I expect will be the laſt, when I poſe my Heart upon it, be<g ref="char:EOLhyphen"/>fore God; I dare not deſire to have eſcaped this Lot, for no leſs could have been for his Glory and Vindication of his Cauſe on my behalf: And as I am free before him of the Pro<g ref="char:EOLhyphen"/>phainity, which ſome either naughty wicked, or ſtrangers to me, have Reported that I have been ſometime Guilty of; So he hath kept me from the Womb, free of the ordinary Poluti<g ref="char:EOLhyphen"/>on of Children, as theſe that hath been acquainted with me throu' the Tract of my Life do know, and now my Blood ſhall either more ſilence Reproaches or more Ripen them for Judgment, but I hope it ſhall make ſome more, ſparing to ſpeak of thoſe who ſhall come after me; and ſo I am the more willing to pay this Coſt, for their Inſtruction, and my Suc<g ref="char:EOLhyphen"/>ceeders eaſe, ſince I came to Priſon; The Lord hath been wonderfully kind to me, he has made his Word to give me Light, Life, Joy, Courage, and Strength, Yea, it hath dropped with ſweet Smelling Myrrh unto me; particularly theſe paſſages and promiſes, <hi>Gen:</hi> 22: 12. <hi>latter part of the Verſe. For now I know that thou feareſt God, ſeeing thou haſt not withheld
+<pb n="3" facs="tcp:53202:2" rendition="simple:additions"/>thy Son, thine only Son.</hi> Neh: 8.10. <hi>later part of the Verſe. Nei<g ref="char:EOLhyphen"/>ther be you ſorry, for the Joy of the Lord is your Strength.</hi> Job 3, 17. <hi>There the Wicked ceaſe from troubling, and there the weary be at reſt.</hi> 18. <hi>There the Priſoners reſt together, they hear not the voice of the oppreſſor.</hi> Job 23.10. <hi>But he knoweth the way that I take: when he hath tried me, I ſhall come forth as Gold.</hi> 11. <hi>My foot hath held his ſteps, his ways have I kept, and not declined.</hi> 12 <hi>Neither have I gone back from the Commandment of his Lips, I have eſteemed the words of his Mouth more than my neceſſary food.</hi> 13. <hi>But he is of one mind, and who can turn him? and what his Soul deſireth, even that he doth,</hi> 14. <hi>For he performeth the things that he is appointed for me: and many ſuch things are with him.</hi> Pſal: 105, <hi>later part of the Verſe. The word of the Lord tryed him.</hi> Luke 21.12: <hi>But before all theſe they ſhall lay their hands on you and perſecute you, delivering you up to the Synagogues, and into Priſons, being brought before Kings and Rulers for my Name ſake.</hi> 13. <hi>And it ſhall turn to you for a Teſtimony.</hi> 19 <hi>In your patience poſſeſs ye your Souls.</hi> The Goſpel according to S. <hi>John.</hi> Heb: 12.13. <hi>To the General Aſſembly and Church of the firſt Born, which are written in Heaven, and to God the Judge of all, and to the Spi<g ref="char:EOLhyphen"/>rits of Juſt Men made perfect.</hi> Jam: 1.12, <hi>Bleſſed is the Man that endureth Temptation: for when he is tried, he ſhall receive the Crown of Life, which the Lord hath promiſed to them that love him.</hi> Peter 5.7. <hi>Caſting all your care upon him, for he careth for you.</hi> 8. <hi>Be ſober, be vigilent, becauſe your Adverſary the Devil, as a roaring Lyon, walketh about ſeeking whom he may devour.</hi> Rev: 3.8. <hi>I know thy works: behold, I have ſet before thee an open door, and no man can ſhut it; for thou haſt a little Strength, and haſt kept my word, and haſt not denyed my Name.</hi> 10. <hi>Becauſe thou haſt kept the word of my Patience, I alſo will keep thee from the hour of Temptation, which ſhall come upon all the World, to try them that dwell upon the Earth.</hi> 11. <hi>Behold, I come quickly: hold that faſt
+<pb n="4" facs="tcp:53202:3"/>which thou haſt, that no man take thy crown.</hi> 12. <hi>Him that over<g ref="char:EOLhyphen"/>cometh, will I make a pillar in the Temple of my God, and he ſhall go no more out: and I will write upon him the Name of my God, &amp; the Name of the City if my God, which is new Jeruſalem, which cometh down out of Heaven from my God: and I will write upon him my new Name.</hi> Rev, 19.20. <hi>And the Beaſt was taken, and with him the falſe Prophet that wrought miracles before him, with which he deceived them that had received the mark of the beaſt, and them that worſhipped his Image. Theſe both were caſt into a lake of Fire burning with Brimſtone.</hi> 21. <hi>And the remnant were ſlain with the Sword of him that ſat upon the horſe. Which Sword proceedeth out of his mouth: and all the Fowls were filled with their fleſh.</hi> And many other Scriptures.</p>
+                  <p>O what can I ſay to the Lords praiſe! it was but little that I knew of him before I came to Priſon; I have found ſenſibly much of his divine ſtrength, much of the joy of his Spirit, and much aſſurance from his Word and Spirit, con<g ref="char:EOLhyphen"/>cerning my Salvation, my Sufferrings are ſtated upon the Matter of my Doctrine, for there was found with me, the Sum of my laſt two Sermons at <hi>Braids</hi>-Craigs, which I wrote alter I Preached them; The former therereof was upon <hi>Pſ:</hi> 46.10. <hi>Be ſtill, and know that I am God: I will be exalted a<g ref="char:EOLhyphen"/>mong the Heathen, I will be exalted in the Earth.</hi> And the later upon <hi>Heb:</hi> 10: 38: <hi>Now the juſt ſhall live by Faith: but if any Man draw back, my Soul ſhall have no pleaſure in him.</hi> And ſo I was examined upon the Application made therein unto the Sins of the time: All which I owned once and again, as it is to be ſeen in my Indictment, and I being tried, and an Aſſize ſet; I adhered to my former Confeſſion Explicitly, ſo my Sentence of Death was drawn forth, upon theſe three Heads.</p>
+                  <p>Firſt, <hi>Becauſe I could not own</hi> James <hi>the</hi> VII, <hi>to be my lawful Soverain.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:53202:3"/>
+                  <p>Secondly, <hi>Becauſe I taugh, tthe unlawfulneſs of paying the Ceſs expreſly exacted for ſuppreſſing the Faithful, &amp; free Preaching of the Goſpel.</hi>
+                  </p>
+                  <p>Thirdly, <hi>Becauſe I taught, it was the Peoples duty to carry Arms, at the Preaching of the Goſpel, now when it is perſecuted for Defend<g ref="char:EOLhyphen"/>ing of themſelves, and reſiſting of unjuſt violence.</hi>
+                  </p>
+                  <p>I think ſuch a Teſtimony, is worth many Lives, and I praiſe the LORD for his enabling me to be plain and poſitive in all my Confeſſions; for therein I found Peace, Joy, ſtrength and boldneſs. I have met with many Aſſaults in Priſon, ſome from ſome of the <hi>Indulged Party,</hi> and ſome from ſome of the Prelaticks; but by the ſtrength of God I was enabled to ſtand, that they could neither bow me nor break me: I was alſo Aſſaulted by ſome of the Popiſh Party, I ſuppoſe they were ſome of the Eccleſiaſtical Creatures; but they found none of their own Stuff in me, I told them after ſundry De<g ref="char:EOLhyphen"/>batings, That I had lived and ſhould die an Enemie to their way: Howſoever ſome that knew me not, Reproached me vvith <hi>Jeſuitiſm:</hi> I was preſſed by Sundry to ſeek a Reprive, and my Anſvver vvas alvvays, That I adhered to my former Confeſſion, and if they pleaſed to let the appointed time of my Death ſtand, let it ſtand, and if they pleaſed to protract it. Let them protract it, for I was ready and vvilling both to live and to die, Hovvbeit their came a Reprive for eight days but I had no hand in it; They ſtill urged, vvould I but ſay that I deſired time for Conference vvith ſome Perſons anent my Principles: I Anſvvered, That my Time vvas in the Lords Hands, and I vvas in no Heſitation or doubt about my Principles my ſelf, I would not be ſo rude as to decline con<g ref="char:EOLhyphen"/>ference with any, ſo far as it might not be inconvenient for me in my preſent Circumſtances, but I will ſeek it with none. I have no more to ſay upon this Head, but my Heart
+<pb n="6" facs="tcp:53202:4"/>doth not ſmite me for any thing in the Matters of my God, ſince I came to Priſon: And I can further ſay to his praiſe with ſome Conſcienciouſneſs of Integrity, That I have walked in his Way and kept his Charge, though with much Weak<g ref="char:EOLhyphen"/>neſs, and many infirmities, whereof ye have been Witneſſes. Now my dear Friends in precious Chriſt, I think I need not tell you; that as I have Lived, ſo I Die in the ſame perſwaſi<g ref="char:EOLhyphen"/>on, with the true Reformed and Covenanted Presbyterian Church of <hi>Scotland,</hi> that I adhere to the Teſtimony of the Day, as it is held forth in our Informatorie Vindication, and in the Teſtimony againſt the preſent Toleration; and that I own, and Seal with my Blood all the precious Truths, even the Contraverted Truths that I have Taught: So I would exhort every one of you, to make ſure your Perſonal Recon<g ref="char:EOLhyphen"/>ciliation with God in Chriſt; for I fear many of you have that yet to do, and when ye come where I am to look pale death in the Face, ye will not be a little Shaken and Terrified, if ye have not laid hold on Eternal Life. I would exhort you to much Diligence in the uſe of the means, to be careful in keeping up your Societies, to be frequent and fervent in ſecret Prayer, to Read much the Written Word of God, and to ex<g ref="char:EOLhyphen"/>amine your ſelves by it: do not wearie to maintain in your places and ſtations the preſent Teſtimony; for when Chriſt goes forth to defeat Antichriſt; with that Name Written on his Thigh and on his Veſture <hi>King of kings, and Lord of lords,</hi> he will make it Glorious in the Earth, and if ye can but Tranſmit it to the Poſterity, ye may count it a great Generations work, <hi>But beware of the Miniſters, that have accepted of this Toleration, and all others that bend that way, and follow them not, for the Sun hath gone down upon them.</hi> Do not fear that the Lord will caſt off <hi>Scotland,</hi> for he will certainly return again, and ſhew himſelf Glorious in our Land, but watch and pray, for he is
+<pb n="7" facs="tcp:53202:4"/>bringing on a ſad overthrowing ſtroak, which ſhall make many ſay, That they have eaſily got thorow, that hath got a Scaffold for Chriſt, and do not regard the preſent ſuffer<g ref="char:EOLhyphen"/>ings of this World, <hi>for they are not worthy to be compared to the Glory that ſhall be revealed,</hi> I may ſay to his praiſe, that I have found his Croſs ſweet and lovely unto me; for I have had many Joyful hours, and not a fearful thought ſince I came to Priſon; He hath ſtrengthened me, for to outbreath Man, and outface Death. And I am now longing for the joyful hour of my Diſſolution, and there is nothing in the World, that I am ſorry to leave but you, <hi>But I go to better company,</hi> &amp; ſo I muſt take my leave of you all. <hi>Farewell, beloved Suffer<g ref="char:EOLhyphen"/>ers, and followers of the Lamb; Farewell Chriſtian intimats; Fare<g ref="char:EOLhyphen"/>well Chriſtian and Comfortable Mother, and Siſters; Farewell ſweet Societies; Farewell deſireable General Meetings; Farewell Night<g ref="char:EOLhyphen"/>wandrings, in cold and wearineſs for Chriſt; Farewell ſweet Bible, and Preaching of the Goſpel; Farewell Sun, Moon, and Stars, and all Sublunarie things; Farewell Conflicts with a Body of Sin and Death.—Welcome Scaffold, for precious Chriſt; Welcome Hea<g ref="char:EOLhyphen"/>venly Jeruſalem; Welcome innumerable Company of Angels; Wel<g ref="char:EOLhyphen"/>come General Aſſembly, and Church of the Firſt-Born; Welcome Crown of Glory, white Robes, and Songs of</hi> Moſes <hi>and the Lamb; And above all, Welcome O thou Bleſſed Trinity and one God! O E<g ref="char:EOLhyphen"/>ternal One! I commit my Soul into thy Eternal reſt</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Feb,</hi> 13th. 1688.</date>
+                     </dateline>
+                     <signed>JAMES RENWICK</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Dear Friends in Chriſt,</salute>
+                  </opener>
+                  <p>
+                     <hi>I See now what hath been the Language of my Reprive, it hath been, that I might be further Tempted and Tryed, and I praiſe the Lord he hath aſſiſted me, to give further proofs of ſtedfaſt<g ref="char:EOLhyphen"/>neſs; I have been often aſſaulted by ſome Popiſh Prieſts, but the laſt time they came, I told them, I would Debate no more with ſuch
+<pb n="8" facs="tcp:53202:5"/>as they were, and that I had Lived and would Die a Presbyterian Proteſtant, and teſtifie againſt the Idolatrous, Hereſies, Superſti<g ref="char:EOLhyphen"/>tions, and errors of that Antichriſtian way; but Yeſterday I was caſt into deep Exerciſe, and made to dwell under an Impreſſion of the Dreadfulneſs of every thing, that might grieve the Spirit of God. I found Sin to be more Bitter than Death, and one Hours hiding of Gods Face, more inſupportable. And then at Night, I was called before a part of the Council, and the Chancellor produced the Infor<g ref="char:EOLhyphen"/>matorie Vindication, and asked if I knew it; I anſwered, I knew it; And being interrogat, I confeſſed that I had a great hand in Writting of it, they preſſed me to tell my Aſſiſtances, I told them they were thoſe whom they perſecuted, but would ſatisfie them no further; they alſo urged me upon pain of Torture; to tell where our Societies were, who kept our General Correſpondances, and where they were kept. I Anſwered, though they ſhould Torture me, which was contrar to all Laws after Sentence of Death, I would give them no further notice than the Books gave, I was moreover threatned to tell of my Haunts and Quarters, but I refuſed to make known to them any ſuch thing; So I was returned to Priſon. Such Exerciſe as I had, was very needful for ſuch a Tryal; And I would rather en<g ref="char:EOLhyphen"/>dure what they could do unto me; Then, have diſhonoured Chriſt, Offended you, and brought you into Trouble:—But I hope within leſs than three days, to be without the reach of all Temptations.</hi>
+                  </p>
+                  <closer>
+                     <signed>Now I have no more to ſay, Farewell again, <hi>in our Bleſſed LORD JESUS.</hi> James Renwick.</signed>
+                     <dateline>
+                        <date>
+                           <hi>Feb.</hi> 15th. 1688.</date>
+                     </dateline>
+                  </closer>
+                  <pb facs="tcp:53202:5"/>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
